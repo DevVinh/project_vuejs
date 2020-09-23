@@ -1,0 +1,8 @@
+
+import database
+
+Run:
+
+	php artisan serve --port=9999
+
+	php artisan run watch
