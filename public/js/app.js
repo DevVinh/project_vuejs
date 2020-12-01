@@ -54944,8 +54944,8 @@ router.beforeEach(function (to, from, next) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Program Files\Ampps\www\vuejs_crud\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Program Files\Ampps\www\vuejs_crud\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Program Files\Ampps\www\project_vuejs\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Program Files\Ampps\www\project_vuejs\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
